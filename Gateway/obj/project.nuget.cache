@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftgTHLAslBw=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|solutionrelative:gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|solutionrelative:gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\migrations\\20260301140222_initialenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\migrations\\20260301140222_initialenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\contracts\\updateenrollmentstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\contracts\\updateenrollmentstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\contracts\\createenrollmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\contracts\\createenrollmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\infrastructure\\data\\enrollmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\infrastructure\\data\\enrollmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Migrations\\20260301135234_InitialNotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notification\\Migrations\\20260301135234_InitialNotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\infrastructure\\data\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\infrastructure\\data\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\contracts\\createnotificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\contracts\\createnotificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\domain\\entities\\notificationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\domain\\entities\\notificationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\migrations\\20260301133656_initialcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\migrations\\20260301133656_initialcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\contracts\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\contracts\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\infrastructure\\data\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\infrastructure\\data\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\contracts\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\contracts\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\migrations\\20260301123658_initialstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\migrations\\20260301123658_initialstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\infrastructure\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\infrastructure\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|solutionrelative:gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\student\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2002DCDE-4421-49A6-BA0F-E4797CA3C1ED}|Student\\Student.csproj|solutionrelative:student\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\course\\course.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1F3DCE4-D71D-4B3B-8A6F-413E919E9B52}|Course\\Course.csproj|solutionrelative:course\\course.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\enrollment\\enrollment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7268EF81-51EF-4165-A68A-98F366538FA2}|Enrollment\\Enrollment.csproj|solutionrelative:enrollment\\enrollment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\gateway\\gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BECCB4F1-AB98-42C8-95CC-53DA8482DC44}|Gateway\\Gateway.csproj|solutionrelative:gateway\\gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\notification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\notification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|d:\\documents\\c# 2026\\universityworkflow.microservices\\notification\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07295451-4240-4915-8F94-A869230958F6}|Notification\\Notification.csproj|solutionrelative:notification\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEnrollmentRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Contracts\\CreateEnrollmentRequest.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Contracts\\CreateEnrollmentRequest.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Contracts\\CreateEnrollmentRequest.cs",
+              "RelativeToolTip": "Enrollment\\Contracts\\CreateEnrollmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:59:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Gateway\\appsettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\appsettings.json",
+              "RelativeToolTip": "Gateway\\appsettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:34:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLogsController.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Controllers\\AuditLogsController.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Controllers\\AuditLogsController.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Controllers\\AuditLogsController.cs",
+              "RelativeToolTip": "Enrollment\\Controllers\\AuditLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:01:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Enrollment\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:00:52.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Gateway\\Program.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Program.cs",
+              "RelativeToolTip": "Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:34:14.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260301140222_InitialEnrollment.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Migrations\\20260301140222_InitialEnrollment.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Migrations\\20260301140222_InitialEnrollment.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Migrations\\20260301140222_InitialEnrollment.cs",
+              "RelativeToolTip": "Enrollment\\Migrations\\20260301140222_InitialEnrollment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:02:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEnrollmentStatusRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Contracts\\UpdateEnrollmentStatusRequest.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Contracts\\UpdateEnrollmentStatusRequest.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Contracts\\UpdateEnrollmentStatusRequest.cs",
+              "RelativeToolTip": "Enrollment\\Contracts\\UpdateEnrollmentStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:00:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnrollmentDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Infrastructure\\Data\\EnrollmentDbContext.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Infrastructure\\Data\\EnrollmentDbContext.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Infrastructure\\Data\\EnrollmentDbContext.cs",
+              "RelativeToolTip": "Enrollment\\Infrastructure\\Data\\EnrollmentDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:57:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Enrollment\\Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:57:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Domain\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Domain\\Entities\\Enrollment.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Domain\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "Enrollment\\Domain\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:56:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\appsettings.json",
+              "RelativeDocumentMoniker": "Enrollment\\appsettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\appsettings.json",
+              "RelativeToolTip": "Enrollment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T13:55:47.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Program.cs",
+              "RelativeDocumentMoniker": "Enrollment\\Program.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Program.cs",
+              "RelativeToolTip": "Enrollment\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:05:31.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260301135234_InitialNotification.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Migrations\\20260301135234_InitialNotification.cs",
+              "RelativeDocumentMoniker": "Notification\\Migrations\\20260301135234_InitialNotification.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Migrations\\20260301135234_InitialNotification.cs",
+              "RelativeToolTip": "Notification\\Migrations\\20260301135234_InitialNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:52:34.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Notification\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Notification\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:51:08.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateNotificationRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Contracts\\CreateNotificationRequest.cs",
+              "RelativeDocumentMoniker": "Notification\\Contracts\\CreateNotificationRequest.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Contracts\\CreateNotificationRequest.cs",
+              "RelativeToolTip": "Notification\\Contracts\\CreateNotificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:50:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Program.cs",
+              "RelativeDocumentMoniker": "Notification\\Program.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Program.cs",
+              "RelativeToolTip": "Notification\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:49:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Infrastructure\\Data\\NotificationDbContext.cs",
+              "RelativeDocumentMoniker": "Notification\\Infrastructure\\Data\\NotificationDbContext.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Infrastructure\\Data\\NotificationDbContext.cs",
+              "RelativeToolTip": "Notification\\Infrastructure\\Data\\NotificationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:49:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationLog.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Domain\\Entities\\NotificationLog.cs",
+              "RelativeDocumentMoniker": "Notification\\Domain\\Entities\\NotificationLog.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Domain\\Entities\\NotificationLog.cs",
+              "RelativeToolTip": "Notification\\Domain\\Entities\\NotificationLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:48:31.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\appsettings.json",
+              "RelativeDocumentMoniker": "Notification\\appsettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\appsettings.json",
+              "RelativeToolTip": "Notification\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T13:46:59.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260301133656_InitialCourse.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Migrations\\20260301133656_InitialCourse.cs",
+              "RelativeDocumentMoniker": "Course\\Migrations\\20260301133656_InitialCourse.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Migrations\\20260301133656_InitialCourse.cs",
+              "RelativeToolTip": "Course\\Migrations\\20260301133656_InitialCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:36:57.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Course\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Course\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:35:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCourseRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Contracts\\CreateCourseRequest.cs",
+              "RelativeDocumentMoniker": "Course\\Contracts\\CreateCourseRequest.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Contracts\\CreateCourseRequest.cs",
+              "RelativeToolTip": "Course\\Contracts\\CreateCourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:35:10.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Infrastructure\\Data\\CourseDbContext.cs",
+              "RelativeDocumentMoniker": "Course\\Infrastructure\\Data\\CourseDbContext.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Infrastructure\\Data\\CourseDbContext.cs",
+              "RelativeToolTip": "Course\\Infrastructure\\Data\\CourseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:33:59.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Course\\Domain\\Entities\\Course.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Course\\Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:33:24.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\appsettings.json",
+              "RelativeDocumentMoniker": "Course\\appsettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\appsettings.json",
+              "RelativeToolTip": "Course\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T13:32:48.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateStudentRequest.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Contracts\\CreateStudentRequest.cs",
+              "RelativeDocumentMoniker": "Student\\Contracts\\CreateStudentRequest.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Contracts\\CreateStudentRequest.cs",
+              "RelativeToolTip": "Student\\Contracts\\CreateStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:35:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:53:28.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Student\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Student\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:35:28.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Infrastructure\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Student\\Infrastructure\\Data\\StudentDbContext.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Infrastructure\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "Student\\Infrastructure\\Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:32:15.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Student\\Domain\\Entities\\Student.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Student\\Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:31:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260301123658_InitialStudent.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Migrations\\20260301123658_InitialStudent.cs",
+              "RelativeDocumentMoniker": "Student\\Migrations\\20260301123658_InitialStudent.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Migrations\\20260301123658_InitialStudent.cs",
+              "RelativeToolTip": "Student\\Migrations\\20260301123658_InitialStudent.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:36:59.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Student\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Student\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:37:04.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:35:56.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\appsettings.json",
+              "RelativeDocumentMoniker": "Student\\appsettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\appsettings.json",
+              "RelativeToolTip": "Student\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T12:14:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Program.cs",
+              "RelativeDocumentMoniker": "Student\\Program.cs",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Student\\Program.cs",
+              "RelativeToolTip": "Student\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:59:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Notification\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Notification\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:42:52.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Enrollment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Enrollment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:42:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Course\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Course\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:41:03.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Course",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Course.csproj",
+              "RelativeDocumentMoniker": "Course\\Course.csproj",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Course\\Course.csproj",
+              "RelativeToolTip": "Course\\Course.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T11:53:25.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Notification",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Notification.csproj",
+              "RelativeDocumentMoniker": "Notification\\Notification.csproj",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\Notification.csproj",
+              "RelativeToolTip": "Notification\\Notification.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T11:53:31.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Enrollment",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Enrollment.csproj",
+              "RelativeDocumentMoniker": "Enrollment\\Enrollment.csproj",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Enrollment\\Enrollment.csproj",
+              "RelativeToolTip": "Enrollment\\Enrollment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T11:53:23.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Gateway",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Gateway.csproj",
+              "RelativeDocumentMoniker": "Gateway\\Gateway.csproj",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Gateway\\Gateway.csproj",
+              "RelativeToolTip": "Gateway\\Gateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T11:53:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Notification\\appsettings.Development.json",
+              "ToolTip": "D:\\Documents\\C# 2026\\UniversityWorkflow.Microservices\\Notification\\appsettings.Development.json",
+              "RelativeToolTip": "Notification\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T13:42:47.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
